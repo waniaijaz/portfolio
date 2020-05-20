@@ -1,0 +1,34 @@
+.table
+{
+    align-items: center;
+    justify-content: center;
+    font-family: roboto;font-size: 16px;
+    text-align:center;
+    background-color: lightgray;
+    padding-left: 2em;    
+    padding-top: 1em;
+    line-height: 2em;
+    padding-right: 3em;
+
+    
+}
+*{
+    margin: auto;
+    width: normal;
+}
+#details {
+    padding-left: 5em;
+
+    line-height: 3em;
+}
+
+.table h2 {
+    padding-top: 2em;
+}
+#details h2{
+    text-align: center;
+    align-content: center;
+}
+#image{
+    <img src="/images/AIJAZ 121.jpg">
+}
